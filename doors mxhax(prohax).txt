@@ -377,7 +377,7 @@ setupTranslationEngine()
 
 local success, err = pcall(function()
 --倒卖死全家 死父母 复刻不标明关源 就恶心你们这群外部仔 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Emperor167/roblox/refs/heads/main/Doors"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheHunterSolo1/Scripts/refs/heads/main/Doors"))()
 
 end)
 
