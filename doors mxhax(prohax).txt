@@ -155,6 +155,7 @@ local Translations = {
     ["Esp"] = "透视",
     ["closet"] = "柜子",
     ["Custom themes"] = "自定义主题",
+    ["Unlock"] = "未锁定",
     ["Lock"] = "锁定",
     ["Reset autoload"] = "重置自动加载",
     ["Current autoload config: none"] = "自动配置: 无",
